@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>{{prop?title!../package.json}}</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.honestbleeps.redditenhancementsuite</string>
+	<string>ro.bartis.redditenhancementsuite</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>

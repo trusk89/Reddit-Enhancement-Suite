@@ -1,7 +1,7 @@
 {
-  "title": "Reddit Enhancement Suite",
-  "name": "reddit-enhancement-suite",
-  "version": "5.4.3",
+  "title": "Reddit Enhancement Suite - Safari",
+  "name": "reddit-enhancement-suite-safari",
+  "version": "5.4.4",
   "description": "A suite of modules that enhance your Reddit browsing experience",
   "author": "Reddit Enhancement Suite",
   "license": "GPL-3.0",
@@ -9,8 +9,8 @@
   "homepage": "http://redditenhancementsuite.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/honestbleeps/Reddit-Enhancement-Suite.git",
-    "username": "honestbleeps",
+    "url": "https://github.com/trusk89/Reddit-Enhancement-Suite.git",
+    "username": "trusk89",
     "repository": "Reddit-Enhancement-Suite"
   },
   "scripts": {
